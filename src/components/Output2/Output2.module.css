@@ -1,0 +1,26 @@
+.div2{margin-top:20%;}
+.table{
+    border:1px solid black;
+    margin-left: 10%;
+}
+.heading1{
+    width:60vw;
+}
+.heading2{
+    width:15vw;
+}
+
+
+/* .button{
+    background-color: orange;
+    color:whitesmoke;
+    margin-left: 45%;
+    height:4vh;
+} */
+.Button{
+    margin-left: 40%;
+    background-color: cadetblue;
+    color:#faebd7;
+    margin-top: 20px;
+    height:2vw;
+}
